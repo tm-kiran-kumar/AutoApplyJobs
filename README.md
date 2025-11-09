@@ -1,0 +1,2 @@
+# AutoApplyJobs
+Automating Job Applications
