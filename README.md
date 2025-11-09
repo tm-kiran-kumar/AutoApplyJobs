@@ -9,7 +9,7 @@ Project is developed to automate job applications using the concepts of automati
 2.  Initial target on one job portal.
 3.  Programming - Python Procedural Script
 
-**Setup and installation instructions: **
+**Setup and installation instructions:**
 Python
 Selenium
 
