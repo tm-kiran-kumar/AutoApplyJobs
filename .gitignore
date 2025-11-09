@@ -1,0 +1,17 @@
+.gitignore file
+.venv/
+.env/
+venv/
+
+# Python cache
+__pychache__/
+*.pyc
+
+# Pytest cache
+.pytest_cache/
+
+# Pycharm
+.idea/
+
+# OS files
+.DS_Store
