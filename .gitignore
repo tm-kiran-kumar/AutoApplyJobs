@@ -3,15 +3,20 @@
 .env/
 venv/
 
-# Python cache
+# Python cache and runtime files
 __pychache__/
 *.pyc
+*.log
 
 # Pytest cache
 .pytest_cache/
 
-# Pycharm
+# IDE/Editor files
 .idea/
+*.swp
+*~
 
-# OS files
+# OS specific files
 .DS_Store
+[Tt]humbs.db
+._* # macOS "dot underscore" files that contain resource fork data
